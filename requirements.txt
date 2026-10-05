@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+statsmodels
+pyarrow
+duckdb
+yfinance
+pytest
+jupyter
+ipykernel
